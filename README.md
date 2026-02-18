@@ -1,7 +1,6 @@
 # bpdiarys 
 
-Bdiarys is a CMS-style website designed to document my journey towards becoming a software developer, featuring candid accounts of setbacks and imperfections aimed at inspiring beginners and individuals with unconventional paths. This project, serving as both a final and personal endeavor, allowed me to practice and refine my full-stack development skills, particularly through implementing MVC architecture.
-
+Bdiarys is a CMS-style website designed to document my journey towards becoming a software developer, featuring candid accounts of setbacks and imperfections aimed at inspiring beginners and individuals with unconventional paths. 
 
 
 ## Table of Contents
@@ -21,8 +20,7 @@ Bdiarys is a CMS-style website designed to document my journey towards becoming 
 
 ## Introduction
 
-Bdiarys is a personal blog that chronicles my transition into the world of web development through episode-style articles. The website provides free access to all visitors, offering a detailed look at my development journey. The site features user authentication for a personalized experience, allowing users to save favorite articles and manage comments. For administrators, the platform includes advanced functionalities such as article editing, comment moderation, and an internal messaging system for managing contact form submissions. This project not only showcases my technical abilities but also serves as a reflective space to share my experiences and insights.
-
+Bdiarys chronicles transition into the world of web development through episode-style articles. The website provides free access to all visitors, offering a detailed look at my development journey. The site features user authentication for a personalized experience, allowing users to save favorite articles and manage comments. For administrators, the platform includes advanced functionalities such as article editing, comment moderation, and an internal messaging system for managing contact form submissions. 
 ## Demo
 
 ### Live Demo
