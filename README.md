@@ -21,11 +21,11 @@ Bdiarys is a CMS-style website designed to document my journey towards becoming 
 ## Introduction
 
 Bdiarys chronicles transition into the world of web development through episode-style articles. The website provides free access to all visitors, offering a detailed look at my development journey. The site features user authentication for a personalized experience, allowing users to save favorite articles and manage comments. For administrators, the platform includes advanced functionalities such as article editing, comment moderation, and an internal messaging system for managing contact form submissions. 
-## Demo
+<!--## Demo
 
 ### Live Demo
 
-Check out the live demo [here](https://bpdiarys.com/).
+Check out the live demo [here](https://bpdiarys.com/).-->
 
 
 ### sitemap
